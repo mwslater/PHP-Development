@@ -7,7 +7,7 @@ body {
 }
 
 #wrapper {
-  max-width:940px;
+  max-width:1080px;
   margin:0 auto;
   padding:0 5%;
   }
@@ -151,7 +151,6 @@ PAGE: CONTACT
 .contact-info li.twitter a {
  background-image: url('../img/twitter.png'); 
 }
-
 
 /********
 COLORS
